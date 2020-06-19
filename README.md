@@ -2,7 +2,7 @@
 
 ALUNOS:
 
-Fagner Felipe Dantas Domingos
+Fagner Felipe D. Domingos
 
 Felipe Antônio
 
