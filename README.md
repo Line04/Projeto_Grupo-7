@@ -3,6 +3,9 @@
 ALUNOS:
 
 Fagner Felipe Dantas Domingos
+
 Felipe Antônio
+
 Felipe Aquino
+
 Jakeline C. da Silva
