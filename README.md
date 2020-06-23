@@ -14,7 +14,7 @@ ALUNOS:
 
 Fagner Felipe D. Domingos
 
-Felipe Antônio
+Antonio Felipe de Macedo Neto
 
 Felipe Aquino
 
