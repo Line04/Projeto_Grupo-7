@@ -2,9 +2,7 @@ UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE - UFRN
 
 INSTITUTO METRÓPOLE DIGITAL - IMD
 
-Integra School
-
-Introdução à Programação Python
+Integra School - Introdução à Programação Python
 
 Professor: Carlos Artur Guimarães
 
