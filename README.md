@@ -16,6 +16,6 @@ Fagner Felipe D. Domingos
 
 Felipe Antônio
 
-Felipe Aquino
+Felipe M. Aquino da Costa
 
 Jakeline C. da Silva
