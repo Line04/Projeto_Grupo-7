@@ -13,8 +13,8 @@ O trabalho aborda sobre das vantagens de se medir o lixo eletrônico, apresentan
 **Componentes**:
 
 <ul>
-  <li>Fagner Felipe Dantas Domingos</li>
   <li>Antônio Felipe de Macedo Neto</li>
+  <li>Fagner Felipe Dantas Domingos</li>
   <li>Felipe M. Aquino da Costa</li>
   <li>Jakeline C. da Silva</li>
 <ul>
