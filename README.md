@@ -8,7 +8,7 @@ Integra School - Introdução à Programação Python
 
 **PROJETO: ABORDAGEM SOBRE A TAXA DE RECICLAGEM DO LIXO ELETRÔNICO**
 
-O trabalho aborda sobre das vantagens de se medir o lixo eletrônico, apresentando dados de reciclagem de alguns países e os pontos positivos de se reciclar o lixo eletrônico e como isso contribui com os Objetivos de Desenvolvimento Sustentável (ODS) 12 apresentados pela ONU 2030.
+O trabalho aborda sobre as vantagens de se medir o lixo eletrônico, apresentando dados de reciclagem de alguns países e os pontos positivos de se reciclar o lixo eletrônico e como isso contribui com os Objetivos de Desenvolvimento Sustentável (ODS) 12 apresentados pela ONU 2030.
 
 **Componentes**:
 
